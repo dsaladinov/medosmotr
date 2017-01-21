@@ -14,9 +14,13 @@ mysql -uroot -h localhost -D salaidinovdb < salaidinovdb.sql
 или имеются логин и пароль, тогда : mysql -uuser -ppassword -h localhost -D salaidinovdb < salaidinovdb.sql 
 
 Тестовые учетные записи
+
 Администратор - dsalaidinov@gmail.com - danchik1995
+
 Педиатр - allik274@gmail.com - doctor123
+
 Невропатолог - nnazarbaev99@gmail.com - doctor123
+
 Офтальмолог - nandreevna71@gmail.com - doctor123
 Травмотолог - gulnuramambetka@gmail.com - doctor123
 Пациент - amanbekmambetkalyev@gmail.com - pacient123
