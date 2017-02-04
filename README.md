@@ -44,9 +44,9 @@ mysql -uroot -h localhost -D salaidinovdb < salaidinovdb.sql
 
 Тестовые учетные записи
 
-Администратор - dsalaidinov@gmail.com - danchik1995
+Администратор - dsalaidinov@gmail.com
 
-Педиатр - allik274@gmail.com - doctor123
+Педиатр - allik274@gmail.com
 
 Невропатолог - nnazarbaev99@gmail.com - doctor123
 
